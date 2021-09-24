@@ -8,7 +8,7 @@ interface FlickrApi {
 
     @GET(
         "services/rest/?method=flickr.interestingness.getList" +
-                "&api_key=269895ece0940c04bef2b8de0068a700" +
+                "&api_key=youApiKey" +
                 "&format=json" +
                 "&nojsoncallback=1" +
                 "&extras=url_s"
